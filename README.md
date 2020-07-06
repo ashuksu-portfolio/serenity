@@ -1,5 +1,5 @@
 # Serenity
 
-https://ashuksu.github.io/serenity/
+https://ashuksu-portfolio.github.io/serenity/
 
 Simple landing page. Bootstrap website [Serenity]
